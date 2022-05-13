@@ -1,4 +1,4 @@
-alembic==1.7.7
+ALEMBIC==1.7.7
 anyio==3.5.0
 asgiref==3.5.1
 bcrypt==3.2.2
