@@ -51,7 +51,7 @@ jobs:
     runs-on: upbuntu-latest
     needs: [Build]
     environment:
-      name: testing
+      name: production
 
     steps:
       - name: pulling git repo
